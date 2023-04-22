@@ -1,6 +1,8 @@
 # Questionário Target
 
-Neste arquivo apresento as respostas do Questionário presente no processo seletivo para Estágio da empresa Target Sistemas 
+Neste arquivo apresento as respostas do Questionário presente no processo seletivo para Estágio da empresa Target Sistemas.
+
+<b><i>Obs.: Todos os códigos foram desenvolvidos em Java e testados no Replit.</i></b>
 
 1 - O valor da variável SOMA ao final do processamento será 91. Código em Java presente no arquivo "exercicio1".
 
